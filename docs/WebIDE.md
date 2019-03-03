@@ -1,6 +1,6 @@
 # Getting started with SAP WebIDE
 
-1. [Create an Account](https://www.sap.com/developer/topics/sap-webide.html)
+1. [Create an Account](https://cloudplatform.sap.com/capabilities/product-info.SAP-Web-IDE.9e5c9d90-e8e0-4e82-aed2-09087a10c973.html)
 ![Webide Signup](WebIdeSignup.JPG)
 
 2. Activate the account (confirm your email)
@@ -8,6 +8,7 @@
 3. Launch the WebIDE
 
 ![Go to WebIDE](LaunchWebIDE.JPG)
+[Trial Cockpit](https://account.hanatrial.ondemand.com/cockpit/#/home/trialhome)
 
 ### Initial import
 
@@ -28,15 +29,15 @@
 ### Checking out a step
 
 1. Save all your changes by committing or stashing them. Later you can continue by checking out this branch again.
-<div>
-    <img src="Commit.JPG" alt="Commit"></src>
-</div>
+![Commit](Commit.JPG)
 
 2. Switch to the history tab and double click on the checkbox of the entry you want to checkout.
-Afterwards you are on a new branch and continue on this step.
-<div>
-    <img src="Checkout.JPG" alt="Checkout"></src>
-</div>
+Afterwards you are on a new branch and continue on this step. Make sure you select the root folder of the project to see the complete history
+
+![Select root folder](SelectRoot.JPG)
+
+![Checkout](Checkout.JPG)
+
 
 ## Odata - Importing the destinations
 
